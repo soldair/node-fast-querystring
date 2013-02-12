@@ -1,0 +1,25 @@
+{
+  "name": "node-fast-querystring",
+  "version": "0.0.0",
+  "description": "a 40% faster version of the querystring package built into node",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/soldair/node-fast-querystring.git"
+  },
+  "keywords": [
+    "querystring",
+    "performance",
+    "core",
+    "qs",
+    "parse",
+    "decodeURIComponent"
+  ],
+  "author": "Ryan Day",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "b56c718571bd9bdf95e8aafbc7298175eaf2be25"
+}
